@@ -1,0 +1,23 @@
+body{
+	font-family: helvetica
+}
+h1, h2{
+	color: green;
+}
+
+ul li a{
+	color: blue;
+}
+ol li a{
+	color: red;
+}
+
+#p1 {
+	color: red;
+}
+.p2 {
+	color: blue;
+}
+.cetak-tebal{
+	font-weight: bold;
+}
